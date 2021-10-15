@@ -6,7 +6,7 @@ import { FormattedMessage } from 'react-intl';
 
 // application
 import AppLink from '../shared/AppLink';
-import LogoSvg from '../../svg/homepage/logodesktop.svg';
+import LogoSvg from '../../svg/homepage/logodesktopV1.svg';
 import NavPanel from './NavPanel';
 import Search from './Search';
 import Topbar from './Topbar';
