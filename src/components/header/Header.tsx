@@ -9,7 +9,7 @@ import AppLink from '../shared/AppLink';
 import LogoSvg from '../../svg/homepage/logodesktopV2.svg';
 import NavPanel from './NavPanel';
 import Search from './Search';
-import Topbar from './Topbar';
+// import Topbar from './Topbar'; remove unnecessary topbar
 
 export type HeaderLayout = 'default' | 'compact';
 
@@ -35,7 +35,7 @@ function Header(props: HeaderProps) {
                         <FormattedMessage id="header.phoneLabel" defaultMessage="Customer Service" />
                     </div>
                     <div className="site-header__phone-number">
-                        <FormattedMessage id="header.phone" defaultMessage="(800) 060-0730" />
+                        <FormattedMessage id="header.phone" defaultMessage="089-226798" />
                     </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@ function Header(props: HeaderProps) {
 
     return (
         <div className="site-header">
-            <Topbar />
+            {/* <Topbar /> */}
             {bannerSection}
             <div className="site-header__nav-panel">
                 <NavPanel layout={layout} />

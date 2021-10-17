@@ -2,8 +2,8 @@ import { FunctionComponent } from 'react';
 
 // application
 import FooterContacts from './FooterContacts';
-import FooterLinks from './FooterLinks';
-import FooterNewsletter from './FooterNewsletter';
+// import FooterLinks from './FooterLinks';
+// import FooterNewsletter from './FooterNewsletter';
 import ToTop from './ToTop';
 
 // data stubs
@@ -35,10 +35,10 @@ const Footer: FunctionComponent = () => {
             <div className="container">
                 <div className="site-footer__widgets">
                     <div className="row">
-                        <div className="col-12 col-md-6 col-lg-4">
+                        <div className="col-12 col-md-12 col-lg-12">
                             <FooterContacts />
                         </div>
-                        <div className="col-6 col-md-3 col-lg-2">
+                        {/* <div className="col-6 col-md-3 col-lg-2">
                             <FooterLinks title="Information" items={informationLinks} />
                         </div>
                         <div className="col-6 col-md-3 col-lg-2">
@@ -46,11 +46,11 @@ const Footer: FunctionComponent = () => {
                         </div>
                         <div className="col-12 col-md-12 col-lg-4">
                             <FooterNewsletter />
-                        </div>
+                        </div> */}
                     </div>
                 </div>
 
-                <div className="site-footer__bottom">
+                {/* <div className="site-footer__bottom">
                     <div className="site-footer__copyright">
                         Powered by
                         {' '}
@@ -67,7 +67,7 @@ const Footer: FunctionComponent = () => {
                     <div className="site-footer__payments">
                         <img src="/images/payments.png" alt="" />
                     </div>
-                </div>
+                </div> */}
             </div>
             <ToTop />
         </div>

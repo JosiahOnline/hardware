@@ -1,14 +1,14 @@
 export default {
-    name: 'Stroyka',
-    fullName: 'Stroyka - Tools Store React eCommerce Template',
-    url: 'https://themeforest.net/item/stroyka-tools-store-react-ecommerce-template/23909258',
+    name: 'Supreme Evershine',
+    fullName: 'Supreme Evershine - Sandakan Hardware Store',
+    url: 'https://supreme-evershine.com',
     author: {
-        name: 'Kos',
-        profile_url: 'https://themeforest.net/user/kos9',
+        name: 'josiah',
+        profile_url: 'https://onlinebah.com',
     },
     contacts: {
-        address: '715 Fake Street, New York 10021 USA',
-        email: 'stroyka@example.com',
-        phone: '(800) 060-0730',
+        address: 'Block E, Lot 3A, Lintas Industrial Park, 2 Stories Terrace, Mile 7, Sibuga By-Pass, 90000 Sandakan, Sabah.',
+        email: 'supremeevershine@hotmail.com',
+        phone: '089-226798',
     },
 };

@@ -7,8 +7,7 @@ function FooterContacts() {
             <h5 className="footer-contacts__title">Contact Us</h5>
 
             <div className="footer-contacts__text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in feugiat
-                lorem. Pellentque ac placerat tellus.
+                Incorporated in Malaysia on 13th October 2012. Today we provide services to all our clients especially the Palm Oil Industry.
             </div>
 
             <ul className="footer-contacts__contacts">
@@ -26,7 +25,7 @@ function FooterContacts() {
                 </li>
                 <li>
                     <i className="footer-contacts__icon far fa-clock" />
-                    Mon-Sat 10:00pm - 7:00pm
+                    Mon-Sat 8:00am - 5:00pm
                 </li>
             </ul>
         </div>
