@@ -21,7 +21,7 @@ function FooterContacts() {
                 </li>
                 <li>
                     <i className="footer-contacts__icon fas fa-mobile-alt" />
-                    {`${theme.contacts.phone}, ${theme.contacts.phone}`}
+                    {`${theme.contacts.phone}`}
                 </li>
                 <li>
                     <i className="footer-contacts__icon far fa-clock" />
