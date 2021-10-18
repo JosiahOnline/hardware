@@ -7,7 +7,7 @@ function FooterContacts() {
             <h5 className="footer-contacts__title">Contact Us</h5>
 
             <div className="footer-contacts__text">
-                Incorporated in Malaysia on 13th October 2012. Today we provide services to all our clients especially the Palm Oil Industry.
+                Incorporated in Malaysia on 13th October 2012.
             </div>
 
             <ul className="footer-contacts__contacts">
