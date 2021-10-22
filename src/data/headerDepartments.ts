@@ -9,8 +9,8 @@ const dataHeaderDepartments: INav = [
             menu: {
                 size: 'xl',
                 image: {
-                    ltr: '/images/megamenu/examples/megamenu-1-ltr.jpg',
-                    rtl: '/images/megamenu/examples/megamenu-1-rtl.jpg',
+                    ltr: '/images/megamenu/examples/megamenu-1-ltr.png',
+                    rtl: '/images/megamenu/examples/megamenu-1-rtl.png',
                 },
                 columns: [
                     {
